@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Oswald:wght@400;500&family=PT+Serif&family=Playfair+Display&family=Poppins:wght@200&family=Slabo+27px&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+button {
+    font-family: 'Oswald', sans-serif;
+    font-size: 10px;
+}
+.w-12 {
+    width: 12%!important;
+}
