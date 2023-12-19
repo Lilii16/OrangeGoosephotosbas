@@ -12,3 +12,16 @@ button {
 .w-12 {
     width: 12%!important;
 }
+.franche:hover{
+    display: block!important;
+    opacity: 1;
+}
+.franche {
+    opacity: 0;
+}
+.mask {
+    background-color: hsla(0, 0%, 0%, 0.4)
+}
+/* hover-overlay .mask {
+    background-color: hsla(0, 93%, 49%, 0.2)
+} */
