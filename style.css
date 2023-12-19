@@ -19,9 +19,9 @@ button {
 .franche {
     opacity: 0;
 }
-.mask {
-    background-color: hsla(0, 0%, 0%, 0.4)
+.franche-container:hover img{
+    opacity: 0.6;
 }
-/* hover-overlay .mask {
-    background-color: hsla(0, 93%, 49%, 0.2)
-} */
+.franche-container:hover .fa-solid{
+    opacity: 1;
+}
