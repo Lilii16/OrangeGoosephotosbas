@@ -12,6 +12,7 @@ button {
 .w-12 {
     width: 12%!important;
 }
+
 .franche:hover{
     display: block!important;
     opacity: 1;
@@ -22,6 +23,8 @@ button {
 .franche-container:hover img{
     opacity: 0.6;
 }
-.franche-container:hover .fa-solid{
+.franche-container:hover .franche{
     opacity: 1;
 }
+
+
